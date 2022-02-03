@@ -1,3 +1,4 @@
+![](https://github.com/BuMap/BuMap/blob/main/vinh-nguyen-profile-git.gif)
 ### Hi there 👋
 
 <!--

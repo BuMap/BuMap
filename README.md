@@ -1,10 +1,19 @@
 ![](https://github.com/BuMap/BuMap/blob/main/vinh-nguyen-profile-git.gif)
-### Hi there 👋
+### Hiya 👋
+I am a curious Data Engineer, a crzay cat lady, data enthusiast and host of "Let Data Speak" series. I love exploring new tech and currently try to get my head around Cloud Tech ☁️☁️☁️
+ 
+### 📬 Get in touch:
+LinkedIn: https://www.linkedin.com/in/vinhttnguyen/
 
+### 🌳 My Digital Garden:
+I host series about Data and have passion of help young professional get the right direction, resources, and tips to get into the industry.
+https://www.eventbrite.co.nz/o/vinh-nguyen-36002192503
 <!--
 **BuMap/BuMap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+📬 Get in touch
+LinkedIn: https://www.linkedin.com/in/vinhttnguyen/
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
